@@ -3,5 +3,5 @@ function feature1() {
 }
 
 function feature2() {
-    alert('from feature 2.');
+    alert('new changes from feature 2.');
 }
