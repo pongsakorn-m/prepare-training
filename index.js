@@ -7,3 +7,8 @@ function feature2() {
     alert('new changes from feature 2. change from first person.');
     alert('new changes from feature 2. change from second person.');
 }
+
+function feature3() {
+    // from branch release
+    alert('from feature 3.');
+}
